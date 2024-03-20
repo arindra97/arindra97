@@ -11,6 +11,9 @@ Feel free to explore my GitHub repositories and connect with me. I'm always open
 
 Let's code and design together! 🚀
 
+
+## 🏆 Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=arindra97&margin-w=15&margin-h=15&theme=onedark&rank=-B,-C,-?)](https://github.com/arindra97/github-profile-trophy)
 <!---
 arindra97/arindra97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
